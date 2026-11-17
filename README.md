@@ -83,4 +83,4 @@ Jika dijalankan di Kaggle, tambahkan dataset melalui **Add Input**, lalu gunakan
 
 ## Penulis
 
-[Nama kamu] · [tautan GitHub atau LinkedIn]
+[Rehana Putri Salsabiilla] · [https://github.com/rehanasalsabilla]
